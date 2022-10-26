@@ -19,6 +19,7 @@
   "homepage": "https://github.com/bufferapp/ghost-algolia-netlify-webhooks#readme",
   "dependencies": {
     "@tryghost/algolia": "^0.2.1",
-    "@tryghost/algolia-fragmenter": "^0.2.4"
+    "@tryghost/algolia-fragmenter": "^0.2.4",
+    "dotenv": "^16.0.3"
   }
 }
