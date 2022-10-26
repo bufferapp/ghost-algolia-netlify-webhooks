@@ -1,0 +1,24 @@
+{
+  "name": "ghost-algolia-netlify-webhooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bufferapp/ghost-algolia-netlify-webhooks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bufferapp/ghost-algolia-netlify-webhooks/issues"
+  },
+  "homepage": "https://github.com/bufferapp/ghost-algolia-netlify-webhooks#readme",
+  "dependencies": {
+    "@tryghost/algolia": "^0.2.1",
+    "@tryghost/algolia-fragmenter": "^0.2.4"
+  }
+}
